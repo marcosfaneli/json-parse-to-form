@@ -1,4 +1,4 @@
-# Json-to-Form
+# Json-Parse-To-Form
 Parse a JSON to a dynamic form, allowing to change values on JSON
 
   ## How to user
