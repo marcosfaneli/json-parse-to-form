@@ -1,6 +1,6 @@
 {
   "name": "json-parse-to-form",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Parse a JSON to a dynamic form, allowing to change values on JSON",
   "main": "index.js",
   "files": [
@@ -10,7 +10,12 @@
     "start": "parcel src/index.html",
     "build": "parcel build src/FormToJson.js -d build"
   },
-  "keywords": [],
+  "keywords": [
+    "json",
+    "form",
+    "dynamic",
+    "parse"
+  ],
   "author": "marcosfaneli@gmail.com",
   "license": "ISC",
   "dependencies": {
