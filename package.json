@@ -1,0 +1,21 @@
+{
+  "name": "json-to-form",
+  "version": "1.0.0",
+  "description": "Parse a JSON to a dynamic form, allowing to change values on JSON",
+  "main": "index.js",
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html -d build"
+  },
+  "keywords": [],
+  "author": "marcosfaneli@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
